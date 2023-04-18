@@ -1,0 +1,17 @@
+.container {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    min-width: 100% !important;
+}
+
+
+.card{
+    width: 300px;
+    background: rgb(66, 173, 66);
+    color: aliceblue;
+}
+
+.card-img-top{
+    width: 299px;
+    height: 170px;
+}
